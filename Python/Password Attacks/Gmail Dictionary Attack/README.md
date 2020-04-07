@@ -1,5 +1,5 @@
-Gmail Dictionary Attack
+# Gmail Dictionary Attack
 
 For educational purposes
 
-My first attempt at creating a dictionary attack
+My first attempt at creating a dictionary attack.
